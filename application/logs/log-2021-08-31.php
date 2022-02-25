@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-31 01:58:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 03:40:11 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-08-31 05:45:48 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-08-31 10:30:51 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-08-31 10:33:11 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:12 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:12 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:13 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:13 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:14 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:14 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 10:33:16 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-08-31 11:39:59 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2021-08-31 15:26:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 15:27:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 15:31:55 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 15:31:55 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 15:31:56 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 20:01:16 --> 404 Page Not Found: Env/index
+ERROR - 2021-08-31 20:01:26 --> 404 Page Not Found: Core/.env
+ERROR - 2021-08-31 20:01:31 --> 404 Page Not Found: App/.env
+ERROR - 2021-08-31 20:01:35 --> 404 Page Not Found: Public/.env
+ERROR - 2021-08-31 20:39:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 20:39:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 20:39:21 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 23:39:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 23:39:38 --> 404 Page Not Found: Wp-loginphp/index

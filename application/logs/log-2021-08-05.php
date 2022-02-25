@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-05 02:00:03 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2021-08-05 02:00:04 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2021-08-05 02:00:04 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2021-08-05 02:00:04 --> 404 Page Not Found: Awsyml/index
+ERROR - 2021-08-05 02:00:05 --> 404 Page Not Found: Envbak/index
+ERROR - 2021-08-05 02:00:05 --> 404 Page Not Found: Infophp/index
+ERROR - 2021-08-05 02:00:05 --> 404 Page Not Found: Aws/credentials
+ERROR - 2021-08-05 02:00:06 --> 404 Page Not Found: Config/aws.yml
+ERROR - 2021-08-05 02:00:07 --> 404 Page Not Found: Configjs/index
+ERROR - 2021-08-05 08:02:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-05 08:15:05 --> 404 Page Not Found: Assets/themes
+ERROR - 2021-08-05 08:15:06 --> 404 Page Not Found: Assets/themes
+ERROR - 2021-08-05 08:15:06 --> 404 Page Not Found: Assets/themes
+ERROR - 2021-08-05 08:15:07 --> 404 Page Not Found: Assets/themes
+ERROR - 2021-08-05 08:15:09 --> 404 Page Not Found: Assets/themes
+ERROR - 2021-08-05 08:15:10 --> 404 Page Not Found: Assets/themes
+ERROR - 2021-08-05 08:26:21 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-08-05 09:47:54 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-05 09:47:54 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-05 09:48:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-05 09:48:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-05 10:08:51 --> 404 Page Not Found: Env/index
+ERROR - 2021-08-05 10:08:51 --> 404 Page Not Found: Env/index
+ERROR - 2021-08-05 13:27:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-05 13:48:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-05 16:34:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-05 23:07:03 --> 404 Page Not Found: Uploads/frontend

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-29 08:02:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-29 08:05:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-29 13:41:08 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-29 13:42:04 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:04 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:04 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:06 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:06 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:07 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:07 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:07 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:07 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:42:07 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:03 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:03 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:03 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:03 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:04 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:05 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:05 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:05 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:05 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:05 --> 404 Page Not Found: Assets/themes
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 13:47:15 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-10-29 21:33:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-29 21:33:29 --> 404 Page Not Found: Robotstxt/index

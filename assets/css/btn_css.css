@@ -1,0 +1,10 @@
+.btngrad1
+{
+    background-image: linear-gradient(to right, #000000 , #434343);
+    color: white;
+}
+.btngrad2
+{
+    background-image: linear-gradient(to right, #8E2DE2 , #434343);
+    color: white;
+}

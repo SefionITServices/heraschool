@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-22 04:55:04 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-01-22 04:55:34 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-01-22 04:55:59 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-01-22 04:56:10 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-01-22 04:56:22 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-01-22 04:56:39 --> 404 Page Not Found: Old/wp-includes
+ERROR - 2021-01-22 04:56:52 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-01-22 04:57:08 --> 404 Page Not Found: New/wp-includes
+ERROR - 2021-01-22 04:57:19 --> 404 Page Not Found: En/wp-includes
+ERROR - 2021-01-22 04:57:29 --> 404 Page Not Found: Demo/wp-includes
+ERROR - 2021-01-22 04:57:47 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-01-22 04:58:48 --> 404 Page Not Found: Home/wp-includes
+ERROR - 2021-01-22 05:01:10 --> 404 Page Not Found: Staging/wp-includes
+ERROR - 2021-01-22 05:03:35 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-01-22 05:04:52 --> 404 Page Not Found: V2/wp-includes
+ERROR - 2021-01-22 05:05:17 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-01-22 05:05:28 --> 404 Page Not Found: Portal/wp-includes
+ERROR - 2021-01-22 05:05:52 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-01-22 05:06:54 --> 404 Page Not Found: 1/wp-includes
+ERROR - 2021-01-22 05:07:05 --> 404 Page Not Found: Store/wp-includes
+ERROR - 2021-01-22 05:07:42 --> 404 Page Not Found: Blogs/wp-includes
+ERROR - 2021-01-22 05:39:37 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-01-22 06:05:15 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-01-22 06:05:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-01-22 08:32:40 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-01-22 13:16:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-22 18:05:32 --> 404 Page Not Found: Uploads/frontend

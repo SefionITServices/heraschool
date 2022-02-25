@@ -1,0 +1,15 @@
+[04-Apr-2020 23:24:50 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Apr-2020 23:28:50 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 00:52:51 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 01:35:42 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 01:38:37 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 01:38:52 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 16:10:53 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 17:37:00 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 18:18:14 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 20:59:24 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 21:02:01 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 21:02:26 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 21:04:07 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Apr-2020 21:04:10 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Apr-2020 12:46:16 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home/hasim751/dhs_360education/system/database/drivers/mysqli/mysqli_driver.php on line 135

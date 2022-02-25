@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-03 12:21:48 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-11-03 18:24:40 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-11-03 18:25:22 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-11-03 18:25:33 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-11-03 20:32:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-03 20:32:40 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2020-11-03 20:41:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-03 21:00:42 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-11-03 21:00:47 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:52 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:52 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:53 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:55 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:55 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:55 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:55 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:55 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 21:00:56 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:12 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-11-03 22:26:17 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:17 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:17 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:17 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:17 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:18 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:19 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:22 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:22 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 22:26:22 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2020-11-03 23:30:09 --> 404 Page Not Found: Wp-loginphp/index

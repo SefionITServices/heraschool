@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-07 00:58:46 --> 404 Page Not Found: Home/event-details.html
+ERROR - 2021-11-07 00:58:47 --> 404 Page Not Found: Event-detailshtml/index
+ERROR - 2021-11-07 02:17:05 --> 404 Page Not Found: Home/event-details.html
+ERROR - 2021-11-07 02:17:06 --> 404 Page Not Found: Event-detailshtml/index
+ERROR - 2021-11-07 07:52:47 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-07 09:55:49 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-11-07 09:55:49 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-11-07 09:55:50 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-11-07 09:55:50 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-11-07 09:55:50 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-11-07 09:55:50 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-11-07 09:55:50 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-11-07 09:55:50 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-11-07 09:55:50 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-11-07 09:55:51 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-11-07 09:55:51 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-11-07 09:55:51 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-11-07 09:55:51 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-11-07 09:55:51 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-11-07 09:55:51 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-11-07 09:55:51 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-11-07 09:55:52 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-11-07 09:55:52 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-11-07 10:58:33 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-11-07 16:32:38 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-11-07 21:17:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-07 21:17:52 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-07 21:17:52 --> 404 Page Not Found: Wp-loginphp/index

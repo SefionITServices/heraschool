@@ -1,0 +1,57 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-18 00:21:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-03-18 00:21:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-03-18 00:21:30 --> 404 Page Not Found: Wp-loginphp/index
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-18 00:21:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-03-18 00:21:30 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-03-18 02:08:16 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-03-18 02:48:59 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-03-18 07:06:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-18 07:58:57 --> 404 Page Not Found: Cgi-bin/status
+ERROR - 2021-03-18 07:58:57 --> 404 Page Not Found: Cgi-bin/stats
+ERROR - 2021-03-18 07:58:57 --> 404 Page Not Found: Cgi-bin/test
+ERROR - 2021-03-18 07:58:57 --> 404 Page Not Found: Cgi-bin/status
+ERROR - 2021-03-18 07:58:58 --> 404 Page Not Found: Testcgi/index
+ERROR - 2021-03-18 07:58:58 --> 404 Page Not Found: Debugcgi/index
+ERROR - 2021-03-18 08:26:17 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-03-18 10:05:25 --> 404 Page Not Found: Magmi/web
+ERROR - 2021-03-18 10:08:11 --> 404 Page Not Found: Static/a
+ERROR - 2021-03-18 11:03:33 --> 404 Page Not Found: Search/members
+ERROR - 2021-03-18 11:04:21 --> 404 Page Not Found: Plugins/servlet
+ERROR - 2021-03-18 11:04:51 --> 404 Page Not Found: Scheduler/ui
+ERROR - 2021-03-18 11:07:11 --> 404 Page Not Found: Static/a
+ERROR - 2021-03-18 11:18:02 --> 404 Page Not Found: Cs/idcplg
+ERROR - 2021-03-18 11:23:07 --> 404 Page Not Found: Maint/index.php
+ERROR - 2021-03-18 11:23:07 --> 404 Page Not Found: Maint/modules
+ERROR - 2021-03-18 11:38:42 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-03-18 11:38:53 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-03-18 11:38:55 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-03-18 11:39:05 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-03-18 12:05:17 --> 404 Page Not Found: Cs/idcplg
+ERROR - 2021-03-18 12:05:18 --> 404 Page Not Found: Cs/idcplg
+ERROR - 2021-03-18 12:09:11 --> 404 Page Not Found: Maint/index.php
+ERROR - 2021-03-18 12:09:11 --> 404 Page Not Found: Maint/modules
+ERROR - 2021-03-18 12:59:32 --> 404 Page Not Found: Verifyphp/index
+ERROR - 2021-03-18 12:59:32 --> 404 Page Not Found: Mantis/verify.php
+ERROR - 2021-03-18 12:59:32 --> 404 Page Not Found: MantisBT/verify.php
+ERROR - 2021-03-18 12:59:32 --> 404 Page Not Found: Mantisbt-230/verify.php
+ERROR - 2021-03-18 12:59:32 --> 404 Page Not Found: Bugs/verify.php
+ERROR - 2021-03-18 15:45:12 --> 404 Page Not Found: Verifyphp/index
+ERROR - 2021-03-18 15:45:12 --> 404 Page Not Found: Mantis/verify.php
+ERROR - 2021-03-18 15:45:12 --> 404 Page Not Found: MantisBT/verify.php
+ERROR - 2021-03-18 15:45:12 --> 404 Page Not Found: Mantisbt-230/verify.php
+ERROR - 2021-03-18 15:45:12 --> 404 Page Not Found: Bugs/verify.php
+ERROR - 2021-03-18 17:42:53 --> 404 Page Not Found: Laravel_api/vendor
+ERROR - 2021-03-18 17:42:56 --> 404 Page Not Found: Api/vendor
+ERROR - 2021-03-18 17:42:57 --> 404 Page Not Found: Apps/vendor
+ERROR - 2021-03-18 17:42:58 --> 404 Page Not Found: Backup/vendor
+ERROR - 2021-03-18 17:42:59 --> 404 Page Not Found: Oldsite/vendor
+ERROR - 2021-03-18 17:43:10 --> 404 Page Not Found: Modules/vendor
+ERROR - 2021-03-18 20:33:40 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-03-18 20:33:40 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-03-18 20:33:44 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-03-18 20:33:45 --> 404 Page Not Found: Public/admin
+ERROR - 2021-03-18 20:33:59 --> 404 Page Not Found: Public/assets

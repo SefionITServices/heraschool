@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "dhs.ac.in",
+  "Id": "ba3c16cc-8aac-453a-8080-38bf7fd670ba"
+}

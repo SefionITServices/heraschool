@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-02 05:41:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-02 06:20:22 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2021-11-02 06:20:38 --> 404 Page Not Found: Sites/default
+ERROR - 2021-11-02 06:20:45 --> 404 Page Not Found: Admin/controller
+ERROR - 2021-11-02 06:21:01 --> 404 Page Not Found: Images/index
+ERROR - 2021-11-02 06:21:10 --> 404 Page Not Found: Files/index
+ERROR - 2021-11-02 09:08:04 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2021-11-02 09:08:17 --> 404 Page Not Found: Sites/default
+ERROR - 2021-11-02 09:08:19 --> 404 Page Not Found: Admin/controller
+ERROR - 2021-11-02 09:08:22 --> 404 Page Not Found: Images/index
+ERROR - 2021-11-02 09:08:23 --> 404 Page Not Found: Files/index
+ERROR - 2021-11-02 10:22:28 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:28 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:29 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:29 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:29 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:29 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:34 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:35 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:36 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 10:22:36 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-11-02 20:05:56 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2021-11-02 20:05:56 --> 404 Page Not Found: Home/event
+ERROR - 2021-11-02 20:05:56 --> 404 Page Not Found: Home/addmission
+ERROR - 2021-11-02 21:07:21 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-11-02 21:10:30 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-11-02 21:43:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-02 22:20:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-02 22:20:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-02 22:20:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-02 22:20:12 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-02 22:20:12 --> 404 Page Not Found: Wp-loginphp/index

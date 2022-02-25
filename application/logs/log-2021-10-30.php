@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-30 00:18:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-30 00:56:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-30 00:56:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-30 00:56:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-30 00:56:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-30 00:56:16 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-30 01:07:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-30 03:54:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-30 09:54:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-30 10:49:04 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-10-30 14:54:20 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-30 14:54:23 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-30 18:17:55 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-10-30 18:56:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-30 20:35:45 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-30 22:03:03 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-30 22:03:04 --> 404 Page Not Found: Api/.env
+ERROR - 2021-10-30 22:03:04 --> 404 Page Not Found: Laravel/.env
+ERROR - 2021-10-30 22:03:05 --> 404 Page Not Found: Test/.env
+ERROR - 2021-10-30 22:03:06 --> 404 Page Not Found: Admin/.env
+ERROR - 2021-10-30 22:03:06 --> 404 Page Not Found: Vendor/.env
+ERROR - 2021-10-30 22:03:07 --> 404 Page Not Found: Sites/.env
+ERROR - 2021-10-30 22:03:08 --> 404 Page Not Found: Blog/.env
+ERROR - 2021-10-30 22:03:09 --> 404 Page Not Found: System/.env
+ERROR - 2021-10-30 22:03:09 --> 404 Page Not Found: Public/.env
+ERROR - 2021-10-30 22:03:10 --> 404 Page Not Found: Shop/.env
+ERROR - 2021-10-30 22:03:11 --> 404 Page Not Found: Envbak/index
+ERROR - 2021-10-30 22:03:12 --> 404 Page Not Found: Aws/credentials
+ERROR - 2021-10-30 22:03:13 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2021-10-30 22:03:14 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2021-10-30 22:03:14 --> 404 Page Not Found: Awsyml/index
+ERROR - 2021-10-30 22:03:15 --> 404 Page Not Found: Infophp/index
+ERROR - 2021-10-30 22:03:16 --> 404 Page Not Found: Config/aws.yml
+ERROR - 2021-10-30 23:37:57 --> 404 Page Not Found: Wp-content/index
+ERROR - 2021-10-30 23:38:58 --> 404 Page Not Found: Wp-content/index

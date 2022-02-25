@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-13 01:53:39 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2021-09-13 01:53:45 --> 404 Page Not Found: Sites/default
+ERROR - 2021-09-13 01:53:49 --> 404 Page Not Found: Admin/controller
+ERROR - 2021-09-13 01:53:56 --> 404 Page Not Found: Images/index
+ERROR - 2021-09-13 01:53:59 --> 404 Page Not Found: Files/index
+ERROR - 2021-09-13 03:08:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-13 03:08:27 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-09-13 09:34:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 10:04:02 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-09-13 16:57:38 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2021-09-13 16:57:40 --> 404 Page Not Found: Home/event
+ERROR - 2021-09-13 16:57:41 --> 404 Page Not Found: Home/addmission
+ERROR - 2021-09-13 18:34:50 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-09-13 18:34:50 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-09-13 18:34:50 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-09-13 18:34:50 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-09-13 18:34:50 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-09-13 18:34:50 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-09-13 18:34:51 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-09-13 22:29:02 --> 404 Page Not Found: Uploads/frontend

@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-08 02:31:05 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-07-08 03:54:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-08 03:54:33 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-07-08 08:28:24 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-07-08 13:32:26 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-07-08 13:40:45 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2021-07-08 13:41:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-08 13:53:55 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2021-07-08 14:23:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-08 16:32:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-08 20:41:45 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-07-08 20:41:46 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-07-08 20:41:46 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-07-08 20:41:46 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-07-08 20:41:46 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-07-08 20:41:46 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-07-08 20:41:48 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-07-08 20:41:49 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-07-08 20:41:49 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-07-08 20:41:49 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-07-08 20:41:49 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-07-08 20:41:49 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-07-08 20:41:49 --> 404 Page Not Found: Cms/wp-includes

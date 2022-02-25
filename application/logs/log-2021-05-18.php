@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-18 00:58:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-18 00:58:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-18 00:58:10 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-18 03:05:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-18 06:30:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-18 06:30:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-18 08:54:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-18 08:55:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-18 09:28:31 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-18 09:28:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-05-18 09:28:47 --> 404 Page Not Found: Assets/global
+ERROR - 2021-05-18 09:28:47 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-18 09:28:48 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-18 13:36:21 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:22 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:23 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:23 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:23 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:24 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:24 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:24 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:25 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:36:25 --> 404 Page Not Found: Uploads/teacher_image
+ERROR - 2021-05-18 13:37:22 --> 404 Page Not Found: Home/event
+ERROR - 2021-05-18 13:37:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-18 15:51:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-05-18 15:51:46 --> 404 Page Not Found: Public/admin
+ERROR - 2021-05-18 15:51:48 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-18 15:52:00 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-05-18 15:52:01 --> 404 Page Not Found: Plugins/uploadify
+ERROR - 2021-05-18 20:02:21 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-05-18 21:35:48 --> 404 Page Not Found: Env/index
+ERROR - 2021-05-18 23:11:41 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-05-18 23:36:20 --> 404 Page Not Found: Assets/elfinder

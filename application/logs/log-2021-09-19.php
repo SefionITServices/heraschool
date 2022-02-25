@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-19 07:07:14 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2021-09-19 07:07:15 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-09-19 07:07:15 --> 404 Page Not Found: Wp/index
+ERROR - 2021-09-19 07:07:16 --> 404 Page Not Found: Blog/index
+ERROR - 2021-09-19 07:07:16 --> 404 Page Not Found: New/index
+ERROR - 2021-09-19 07:07:16 --> 404 Page Not Found: Old/index
+ERROR - 2021-09-19 07:07:16 --> 404 Page Not Found: Newsite/index
+ERROR - 2021-09-19 07:07:16 --> 404 Page Not Found: Test/index
+ERROR - 2021-09-19 07:07:17 --> 404 Page Not Found: Main/index
+ERROR - 2021-09-19 07:07:17 --> 404 Page Not Found: Cms/index
+ERROR - 2021-09-19 07:07:17 --> 404 Page Not Found: Dev/index
+ERROR - 2021-09-19 07:07:17 --> 404 Page Not Found: Backup/index
+ERROR - 2021-09-19 07:07:18 --> 404 Page Not Found: Protal/index
+ERROR - 2021-09-19 09:25:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 12:21:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-19 15:27:22 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2021-09-19 15:27:31 --> 404 Page Not Found: Sites/default
+ERROR - 2021-09-19 15:27:37 --> 404 Page Not Found: Admin/controller
+ERROR - 2021-09-19 15:27:46 --> 404 Page Not Found: Images/index
+ERROR - 2021-09-19 15:27:50 --> 404 Page Not Found: Files/index
+ERROR - 2021-09-19 18:09:01 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-09-19 18:20:25 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-09-19 20:42:52 --> 404 Page Not Found: Home/event
+ERROR - 2021-09-19 20:43:01 --> 404 Page Not Found: Home/addmission
+ERROR - 2021-09-19 20:43:24 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2021-09-19 23:49:38 --> 404 Page Not Found: Wp-admin/css
+ERROR - 2021-09-19 23:49:47 --> 404 Page Not Found: Sites/default
+ERROR - 2021-09-19 23:49:51 --> 404 Page Not Found: Admin/controller
+ERROR - 2021-09-19 23:49:59 --> 404 Page Not Found: Images/index
+ERROR - 2021-09-19 23:50:03 --> 404 Page Not Found: Files/index

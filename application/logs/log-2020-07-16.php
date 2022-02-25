@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-16 08:22:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-16 08:23:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-16 13:43:44 --> 404 Page Not Found: Php/index
+ERROR - 2020-07-16 13:43:45 --> 404 Page Not Found: Php4/index
+ERROR - 2020-07-16 13:43:45 --> 404 Page Not Found: Php5/index
+ERROR - 2020-07-16 13:43:46 --> 404 Page Not Found: Phpcgi/index
+ERROR - 2020-07-16 13:43:46 --> 404 Page Not Found: Php4cgi/index
+ERROR - 2020-07-16 13:43:47 --> 404 Page Not Found: Php5cgi/index
+ERROR - 2020-07-16 13:43:47 --> 404 Page Not Found: Cgi/php
+ERROR - 2020-07-16 13:43:48 --> 404 Page Not Found: Cgi/php4
+ERROR - 2020-07-16 13:43:49 --> 404 Page Not Found: Cgi/php5
+ERROR - 2020-07-16 13:43:49 --> 404 Page Not Found: Cgi/php.cgi
+ERROR - 2020-07-16 13:43:50 --> 404 Page Not Found: Cgi/php4.cgi
+ERROR - 2020-07-16 13:43:50 --> 404 Page Not Found: Cgi/php5.cgi
+ERROR - 2020-07-16 13:43:51 --> 404 Page Not Found: Cgi/php-cgi
+ERROR - 2020-07-16 13:43:51 --> 404 Page Not Found: Cgi/php4-cgi
+ERROR - 2020-07-16 13:43:52 --> 404 Page Not Found: Cgi/php5-cgi
+ERROR - 2020-07-16 13:43:52 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2020-07-16 13:43:53 --> 404 Page Not Found: Cgi-bin/php4
+ERROR - 2020-07-16 13:43:53 --> 404 Page Not Found: Cgi-bin/php5
+ERROR - 2020-07-16 13:43:54 --> 404 Page Not Found: Cgi-bin/php.cgi
+ERROR - 2020-07-16 13:43:54 --> 404 Page Not Found: Cgi-bin/php4.cgi
+ERROR - 2020-07-16 13:43:55 --> 404 Page Not Found: Cgi-bin/php5.cgi
+ERROR - 2020-07-16 13:43:55 --> 404 Page Not Found: Cgi-bin/php-cgi
+ERROR - 2020-07-16 13:43:56 --> 404 Page Not Found: Cgi-bin/php4-cgi
+ERROR - 2020-07-16 13:43:57 --> 404 Page Not Found: Cgi-bin/php5-cgi
+ERROR - 2020-07-16 13:43:59 --> 404 Page Not Found: App/index
+ERROR - 2020-07-16 17:55:00 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-07-16 23:14:53 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-16 23:14:57 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-07-16 23:15:43 --> 404 Page Not Found: Wp-loginphp/index

@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-16 01:01:29 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-04-16 01:03:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-04-16 01:12:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-16 02:04:24 --> 404 Page Not Found: Env/index
+ERROR - 2021-04-16 02:04:24 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-04-16 02:04:25 --> 404 Page Not Found: _ignition/execute-solution
+ERROR - 2021-04-16 07:20:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-04-16 07:20:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-04-16 07:20:29 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-04-16 07:20:29 --> 404 Page Not Found: Wordpress/wp-login.php
+ERROR - 2021-04-16 07:20:29 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-04-16 07:20:29 --> 404 Page Not Found: Blog/wp-login.php
+ERROR - 2021-04-16 07:20:30 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-04-16 07:20:30 --> 404 Page Not Found: Wp/wp-login.php
+ERROR - 2021-04-16 07:39:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-16 07:39:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-04-16 07:41:15 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2021-04-16 07:46:18 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2021-04-16 07:52:19 --> 404 Page Not Found: Home/event
+ERROR - 2021-04-16 07:58:19 --> 404 Page Not Found: Home/event
+ERROR - 2021-04-16 08:15:17 --> 404 Page Not Found: Home/addmission
+ERROR - 2021-04-16 08:21:18 --> 404 Page Not Found: Home/addmission
+ERROR - 2021-04-16 11:58:45 --> 404 Page Not Found: Public/assets
+ERROR - 2021-04-16 13:17:09 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-04-16 20:20:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-16 20:20:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-04-16 23:09:12 --> 404 Page Not Found: Components/com_jbusinessdirectory

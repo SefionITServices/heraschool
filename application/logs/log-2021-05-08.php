@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-08 01:02:20 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-05-08 08:38:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-08 08:39:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-05-08 08:55:10 --> 404 Page Not Found: Assets/global
+ERROR - 2021-05-08 08:55:10 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-08 08:55:10 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-08 08:55:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2021-05-08 08:55:10 --> 404 Page Not Found: Public/assets
+ERROR - 2021-05-08 14:21:06 --> 404 Page Not Found: Home/addmission
+ERROR - 2021-05-08 14:46:48 --> 404 Page Not Found: Public/admin
+ERROR - 2021-05-08 14:46:48 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-08 14:46:48 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-08 14:46:48 --> 404 Page Not Found: Admin/assets
+ERROR - 2021-05-08 14:46:54 --> 404 Page Not Found: Plugins/fileupload
+ERROR - 2021-05-08 15:32:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-08 15:32:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-08 15:32:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-08 15:32:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-08 15:32:58 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-05-08 16:16:47 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2021-05-08 20:42:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-08 21:04:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-05-08 21:04:34 --> 404 Page Not Found: Admin/fileupload
+ERROR - 2021-05-08 21:04:44 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-05-08 21:04:47 --> 404 Page Not Found: Theme/assets
+ERROR - 2021-05-08 21:04:54 --> 404 Page Not Found: Theme/assets
+ERROR - 2021-05-08 21:04:59 --> 404 Page Not Found: Theme/assets

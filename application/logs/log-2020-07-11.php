@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-11 08:29:46 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-07-11 08:30:00 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-07-11 08:30:21 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-07-11 08:30:36 --> 404 Page Not Found: Old/wp-includes
+ERROR - 2020-07-11 08:30:57 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-07-11 08:31:12 --> 404 Page Not Found: Backup/wp-includes
+ERROR - 2020-07-11 08:31:28 --> 404 Page Not Found: New/wp-includes
+ERROR - 2020-07-11 08:34:21 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-07-11 08:34:31 --> 404 Page Not Found: Dev/wp-includes
+ERROR - 2020-07-11 08:34:43 --> 404 Page Not Found: Home/wp-includes
+ERROR - 2020-07-11 08:35:00 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-07-11 08:35:41 --> 404 Page Not Found: Www/wp-includes
+ERROR - 2020-07-11 08:35:57 --> 404 Page Not Found: Staging/wp-includes
+ERROR - 2020-07-11 08:36:43 --> 404 Page Not Found: Beta/wp-includes
+ERROR - 2020-07-11 08:37:34 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-07-11 08:37:51 --> 404 Page Not Found: Main/wp-includes
+ERROR - 2020-07-11 08:39:25 --> 404 Page Not Found: Oldsite/wp-includes
+ERROR - 2020-07-11 08:39:43 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-07-11 08:39:55 --> 404 Page Not Found: Portal/wp-includes
+ERROR - 2020-07-11 08:40:48 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-07-11 08:40:59 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-07-11 08:41:37 --> 404 Page Not Found: 1/wp-includes
+ERROR - 2020-07-11 08:41:53 --> 404 Page Not Found: Store/wp-includes
+ERROR - 2020-07-11 08:42:04 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-07-11 08:45:15 --> 404 Page Not Found: 1/wp-includes
+ERROR - 2020-07-11 17:49:29 --> 404 Page Not Found: Adminer/adminer.php
+ERROR - 2020-07-11 18:30:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-11 19:55:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-11 23:23:42 --> 404 Page Not Found: Faviconico/index

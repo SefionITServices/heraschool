@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-29 07:16:10 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-05-29 07:16:21 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-05-29 07:16:33 --> 404 Page Not Found: Old/wp-includes
+ERROR - 2020-05-29 07:17:39 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-05-29 07:17:51 --> 404 Page Not Found: Backup/wp-includes
+ERROR - 2020-05-29 07:18:06 --> 404 Page Not Found: New/wp-includes
+ERROR - 2020-05-29 07:18:16 --> 404 Page Not Found: En/wp-includes
+ERROR - 2020-05-29 07:18:52 --> 404 Page Not Found: Demo/wp-includes
+ERROR - 2020-05-29 07:19:22 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-05-29 07:19:29 --> 404 Page Not Found: Dev/wp-includes
+ERROR - 2020-05-29 07:19:41 --> 404 Page Not Found: Home/wp-includes
+ERROR - 2020-05-29 07:20:08 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-05-29 07:20:17 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-05-29 07:20:30 --> 404 Page Not Found: Www/wp-includes
+ERROR - 2020-05-29 07:20:57 --> 404 Page Not Found: Staging/wp-includes
+ERROR - 2020-05-29 07:20:57 --> 404 Page Not Found: Beta/wp-includes
+ERROR - 2020-05-29 07:21:08 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-05-29 07:21:19 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-05-29 07:21:30 --> 404 Page Not Found: Main/wp-includes
+ERROR - 2020-05-29 07:22:32 --> 404 Page Not Found: Newsite/wp-includes
+ERROR - 2020-05-29 07:23:07 --> 404 Page Not Found: V2/wp-includes
+ERROR - 2020-05-29 07:23:20 --> 404 Page Not Found: Oldsite/wp-includes
+ERROR - 2020-05-29 07:24:00 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-05-29 07:24:41 --> 404 Page Not Found: Portal/wp-includes
+ERROR - 2020-05-29 07:24:41 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-05-29 07:25:19 --> 404 Page Not Found: V1/wp-includes
+ERROR - 2020-05-29 07:25:30 --> 404 Page Not Found: 1/wp-includes
+ERROR - 2020-05-29 07:25:51 --> 404 Page Not Found: Store/wp-includes
+ERROR - 2020-05-29 07:26:02 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-05-29 07:26:37 --> 404 Page Not Found: Blogs/wp-includes
+ERROR - 2020-05-29 16:43:33 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-05-29 16:59:04 --> 404 Page Not Found: Faviconico/index
